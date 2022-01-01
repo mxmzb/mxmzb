@@ -20,3 +20,7 @@
     <td><a href="https://twitter.com/mxmzb" target="_blank"><b>@mxmzb</b></a> has been great to work with over the past year. His thoughtful insights and technical contributions have been invaluable to us. Having found him through a programming contest (that he won), we were not surprised, and he exceeded our expectations.</td>
   </tr>
 </table>
+
+## Follow me on Twitter
+
+Follow [@mxmzb](https://twitter.com/mxmzb)
