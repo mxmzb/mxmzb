@@ -7,6 +7,10 @@
     <th>Message</th>
   </tr>
   <tr>
+    <td><a target="_blank" href="https://www.linkedin.com/in/maxim-zubarev/"><b>Felix W. Ortiz III</b></a></td>
+    <td>Maxims technical decisions enabled us to move rapidly and build our product in the shortest amount of time for multiple platforms. You can feel his attention to detail in code and user experience in the apps he builds, and his desire to improve and integrate with processes and colleagues makes Maxim an invaluable asset to any team.</td>
+  </tr>
+  <tr>
     <td><a target="_blank" href="https://twitter.com/BookitWithTrent/status/1322291723452624896"><b>Trent Attyah</b></a></td>
     <td>The <a href="https://twitter.com/BookitHQ" target="_blank"><b>@BookitHQ</b></a> app will be available for public download on Sunday. I am so proud of the entire development team who has been working night and day to finish this product. I have to give a huge shoutout to one of our incredibly talented developers <a href="https://twitter.com/mxmzb" target="_blank"><b>@mxmzb</b></a> for his amazing work.</td>
   </tr>
