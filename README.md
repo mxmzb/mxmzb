@@ -29,6 +29,10 @@
   </tr>
 </table>
 
+## Let's build together
+
+[Get in touch!](https://maximzubarev.com/contact)
+
 ## Follow me on Twitter
 
 Follow [@mxmzb](https://twitter.com/mxmzb)
