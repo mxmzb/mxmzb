@@ -7,6 +7,10 @@
     <th>Message</th>
   </tr>
   <tr>
+    <td><a target="_blank" href="https://www.linkedin.com/in/maxim-zubarev/"><b>Israel Kehat</b></a></td>
+    <td>Maxim is a rare asset. He was our first front-end developer, and was the lead on all our front-end strategy long after additional developers joined the team. Maxim is not just very technically-deep and super knowledgeable, he is also the rare kind of professional who proactively and continuously identify issues, often before they happen, and tend to them. He is super quick and very strong technically, but always open to assist his colleagues and anyone who needs it. In terms of commitment, like many startups we often needs way extra time investment, and Maxim was always the first to step up, and the one to do the most in both investment and outcome. If you need to build some big and fast - that's the person you need.</td>
+  </tr>
+  <tr>
     <td><a target="_blank" href="https://www.linkedin.com/in/maxim-zubarev/"><b>Felix W. Ortiz III</b></a></td>
     <td>Maxims technical decisions enabled us to move rapidly and build our product in the shortest amount of time for multiple platforms. You can feel his attention to detail in code and user experience in the apps he builds, and his desire to improve and integrate with processes and colleagues makes Maxim an invaluable asset to any team.</td>
   </tr>
