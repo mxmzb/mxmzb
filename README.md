@@ -7,8 +7,8 @@
 
 ---
 
-<h4 align="center">Testimonials</h4>
-<h1 align="center">❝</h1>
+<h4>Testimonials</h4>
+<h1>❝</h1>
 
 <table>
   <tr>
