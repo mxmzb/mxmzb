@@ -1,6 +1,6 @@
 * 🌍  Currently in Dubai, UAE
 * 🖥️  See my portfolio at [maximzubarev.com/projects](https://maximzubarev.com/projects)
-* ✉️  You can contact me from [maximzubarev.com/contact](https://maximzubarev.com/contact)
+* ✉️  Reach me at [maximzubarev.com/contact](https://maximzubarev.com/contact)
 * 🤖  I'm currently working on [aimaze.co](https://aimaze.co)
 * 🐦  Follow me on [Twitter](https://twitter.com/mxmzb)
 * 🚀  You can hire me to build your MVP or join your startup
