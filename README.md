@@ -4,7 +4,7 @@
 * 🤖  I'm currently working on [aimaze.co](https://aimaze.co)
 * 🚀  You can hire me to build your MVP or join your startup
 
-===
+---
 
 <h4 align="center">Testimonials</h4>
 <h1 align="center">❝</h1>
