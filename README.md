@@ -7,7 +7,7 @@
 
 ---
 
-<h4>Testimonials</h4>
+<h2>Testimonials</h2>
 <h1>❝</h1>
 
 <table>
