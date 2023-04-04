@@ -2,6 +2,7 @@
 * 🖥️  See my portfolio at [maximzubarev.com/projects](https://maximzubarev.com/projects)
 * ✉️  You can contact me from [maximzubarev.com/contact](https://maximzubarev.com/contact)
 * 🤖  I'm currently working on [aimaze.co](https://aimaze.co)
+* 🐦  Follow me on [Twitter](https://twitter.com/mxmzb)
 * 🚀  You can hire me to build your MVP or join your startup
 
 ---
@@ -37,10 +38,3 @@
   </tr>
 </table>
 
-## Let's build together
-
-[Get in touch!](https://maximzubarev.com/contact)
-
-## Follow me on Twitter
-
-Follow [@mxmzb](https://twitter.com/mxmzb)
