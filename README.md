@@ -1,3 +1,11 @@
+* 🌍  Currently in Dubai, UAE
+* 🖥️  See my portfolio at [maximzubarev.com](https://maximzubarev.com)
+* ✉️  You can contact me at [hello@maximzubarev.com](mailto:hello@maximzubarev.com)
+* 🤖  I'm currently working on [aimaze.co](https://aimaze.co)
+* 🚀  You can hire me to build your MVP or join your startup
+
+===
+
 <h4 align="center">Testimonials</h4>
 <h1 align="center">❝</h1>
 
