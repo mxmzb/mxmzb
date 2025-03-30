@@ -1,5 +1,5 @@
 
-* 🛸  **I explode your profits and slash costs with software at [Vonwerk](https://maximzubarev.com/projects)**
+* 🛸  **Find the solutions to your business problems at [Vonwerk](https://vonwerk.com/offers)**
 * 🐦  Follow me on [X](https://x.com/mxmzb)
 
 ---
