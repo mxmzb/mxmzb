@@ -13,6 +13,16 @@
     <th>Message</th>
   </tr>
   <tr>
+    <td><a target="_blank" href="https://www.linkedin.com/in/maxim-zubarev/"><b>Manuele Capacci</b></a></td>
+    <td>I've been working with Maxim for a while now, and I can confidently recommend him. He's an exceptional professional. Clear communication and well-organized approach.
+
+He stands out for his remarkable proactivity and self-management skills. Once the goals and rationale behind a feature or task are clear, he consistently delivers exactly as promised.
+
+What I particularly value about Maxim is his ability to anticipate potential issues and proactively contribute to strategic discussions, always considering how technical decisions impact various aspects of our business.
+
+It has truly been a pleasure working with him, and I look forward to our future collaborations.</td>
+  </tr>
+  <tr>
     <td><a target="_blank" href="https://www.linkedin.com/in/maxim-zubarev/"><b>Israel Kehat</b></a></td>
     <td>Maxim is a rare asset. He was our first front-end developer, and was the lead on all our front-end strategy long after additional developers joined the team. Maxim is not just very technically-deep and super knowledgeable, he is also the rare kind of professional who proactively and continuously identify issues, often before they happen, and tend to them. He is super quick and very strong technically, but always open to assist his colleagues and anyone who needs it. In terms of commitment, like many startups we often needs way extra time investment, and Maxim was always the first to step up, and the one to do the most in both investment and outcome. If you need to build some big and fast - that's the person you need.</td>
   </tr>
